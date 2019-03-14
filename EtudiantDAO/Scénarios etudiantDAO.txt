@@ -1,0 +1,9 @@
+Scénario récupérer un étudiant grâce à son id
+Créer un étudiant dans la base de données, puis dans la classe test, récupérer l’étudiant en renseignant son id.
+Tester si tous les champs sont récupérés, avec la bonne valeur
+
+Scénario modifier un étudiant grâce à son id
+Renseigner l’id de l’étudiant à modifier et le champ à modifier puis tester si le champ modifié a bien été modifié avec la valeur entrée dans la requête, tester également si les autres champs qui ne doivent pas être modifiés ont toujours la même valeur
+
+Scénario supprimer un étudiant grâce à son id
+Renseigner l’id de l’étudiant à supprimer puis tester si l’étudiant existe encore avec un assertNull sur l’id renseigné
