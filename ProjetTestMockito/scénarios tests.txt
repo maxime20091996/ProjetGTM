@@ -1,0 +1,11 @@
+scénario "créer etudiant" : 
+
+On veut tester la création d'un étudiant. 
+La réussite de la création est conditionnée à la réponse du système, vraie ou
+fausse
+
+scénario "supprimer etudiant" :
+
+On veut tester la suppression d'un étudiant à partir de l'id d'un étudiant.
+La réussite de la création est conditionnée à la réponse du système, vraie ou
+fausse
